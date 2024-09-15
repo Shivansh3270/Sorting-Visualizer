@@ -1,6 +1,6 @@
 # Sorting Algorithm Visualizer
 
-![Sorting Algorithm Visualization](https://via.placeholder.com/800x400.png)
+![Sorting Algorithm Visualization](https://github.com/Shivansh3270/Sorting-Visualizer/blob/main/image/gif.gif)
 
 ## 🚀 Overview
 This **Sorting Algorithm Visualizer** is a dynamic and interactive tool that helps you understand and observe the working of various sorting algorithms. It visually demonstrates how elements of an array are compared, swapped, and ultimately sorted. Whether you’re a student, developer, or algorithm enthusiast, this project offers a clear insight into sorting mechanics.
@@ -50,5 +50,3 @@ If you want to dive deeper into sorting algorithms, here are some helpful links:
 - [Selection Sort](https://en.wikipedia.org/wiki/Selection_sort)
 - [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
 - [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
-
-## 📂 Project Structure
