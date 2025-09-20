@@ -42,9 +42,6 @@ This project visualizes the following algorithms:
 | Quick Sort     | O(n log n)    | O(n log n)    | O(n²)         |
 
 
-## 📜 References
-Inspiration for this project was taken from the [Coding Train](https://thecodingtrain.com/).
-
 If you want to dive deeper into sorting algorithms, here are some helpful links:
 - [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
 - [Selection Sort](https://en.wikipedia.org/wiki/Selection_sort)
